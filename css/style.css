@@ -214,7 +214,7 @@ a.item__link:hover {
 .cover__image {
   color: rgb(255, 255, 255);
   margin: 0 auto;
-  background-image: url(/img/cover__background.jpg);
+  background-image: url('/img/cover_background.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
